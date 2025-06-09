@@ -37,7 +37,7 @@ UI effects are as follows:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/imansmallapple/superDeviceDemo.git
+git clone https://github.com/eclipse-oniro4openharmony/app-SuperDeviceDemo
 ```
 
 **2. Build and Deploy**
